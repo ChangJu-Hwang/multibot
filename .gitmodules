@@ -1,0 +1,15 @@
+[submodule "multibot_util"]
+	path = multibot_util
+	url = https://github.com/ChangJu-Hwang/multibot_util.git
+[submodule "multibot_driver"]
+	path = multibot_driver
+	url = https://github.com/ChangJu-Hwang/multibot_driver.git
+[submodule "multibot_ros2_interface"]
+	path = multibot_ros2_interface
+	url = https://github.com/ChangJu-Hwang/multibot_ros2_interface.git
+[submodule "multibot_server"]
+	path = multibot_server
+	url = https://github.com/ChangJu-Hwang/multibot_server.git
+[submodule "multibot_robot"]
+	path = multibot_robot
+	url = https://github.com/ChangJu-Hwang/multibot_robot.git
