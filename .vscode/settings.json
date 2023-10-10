@@ -3,5 +3,13 @@
         "activityBar.background": "#461C4B",
         "titleBar.activeBackground": "#62276A",
         "titleBar.activeForeground": "#FCF9FD"
-    }
+    },
+    "python.autoComplete.extraPaths": [
+        "/home/changju/multibot_release/install/multibot_ros2_interface/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/changju/multibot_release/install/multibot_ros2_interface/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ]
 }

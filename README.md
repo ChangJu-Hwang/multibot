@@ -7,7 +7,7 @@ Version: Foxy
 ```shell script
 mkdir -p ~/"YOUR_WS"/src
 cd ~/"YOUR_WS"/src
-git clone --recursive "GIT_HTTPS"
+git clone --recursive https://github.com/ChangJu-Hwang/multibot.git
 ```
 #### 2. Build
 ```shell script
